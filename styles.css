@@ -54,3 +54,13 @@ footer {
     background: #2e7d32;
     color: white;
 }
+.section em {
+    display: block;
+    margin: 15px 0;
+    font-style: italic;
+    color: #2e7d32;
+}
+
+.section h3 {
+    color: #1b5e20;
+}
